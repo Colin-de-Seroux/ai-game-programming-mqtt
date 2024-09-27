@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "mqtt.host",
+    "type": "java.lang.String",
+    "description": "host du broker mqtt sans le mqtt:// | tcp://"
+  },
+  {
+    "name": "mqtt.port",
+    "type": "java.lang.String",
+    "description": "Le port du broker mqtt"
+  },
+  {
+    "name": "mqtt.user",
+    "type": "java.lang.String",
+    "description": "Votre pseudo"
+  },
+  {
+    "name": "mqtt.opponent",
+    "type": "java.lang.String",
+    "description": "Le pseudo de la personne en face de vous"
+  },
+  {
+    "name": "command",
+    "type": "java.lang.String",
+    "description": "La commande à lancer pour votre projet"
+  }
+]}
